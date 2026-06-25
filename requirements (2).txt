@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+cohere
+python-docx
+python-pptx
+pandas
+openpyxl
+xlrd
+reportlab
